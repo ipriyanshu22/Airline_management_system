@@ -1,2 +1,2 @@
-# Airline_management_system
+# Airline-Reservation-System
 An Airline Reservation System developed completely in C equipped with a simple and clean user interface.
